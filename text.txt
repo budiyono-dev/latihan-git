@@ -1,4 +1,5 @@
 master edit text
 master edit text2
+ini perubahan master yang baru
 ini text yang ada di branach 1
 ini akhir branch 1
