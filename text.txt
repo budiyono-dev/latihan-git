@@ -1,4 +1,6 @@
 master edit text
 master edit text2
+saya melakukan penambahan di branch 1
+penambahan dilakukan di branch 2
 ini text yang ada di branach 1
 ini akhir branch 1
