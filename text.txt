@@ -1,2 +1,4 @@
+master edit text
+master edit text2
 ini text yang ada di branach 1
 ini akhir branch 1
