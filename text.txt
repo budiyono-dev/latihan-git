@@ -5,3 +5,5 @@ saya melakukan penambahan di branch 1
 penambahan dilakukan di branch 2
 ini text yang ada di branach 1
 ini akhir branch 1
+
+tambah file baru di master
