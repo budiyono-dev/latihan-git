@@ -7,7 +7,7 @@ ini text yang ada di branach 1
 ini akhir branch 1
 
 add tambahan baru di branch
-ada tambahan di branch 2 perubahan di master 3
+ada tambahan di branch 2
 tambah file baru di master
 oerybahan lg di master 2
 perubahan lagi di master
