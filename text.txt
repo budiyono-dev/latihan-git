@@ -8,6 +8,10 @@ ini akhir branch 1
 
 add tambahan baru di branch
 ada tambahan di branch 2 oihoihogh
+<<<<<<< HEAD
 tambah file baru di master hhhhhhhhhhh
+=======
+tambah file baru di master jjjjjjjjjjjjj
+>>>>>>> branch-1
 oerybahan lg di master 2
 perubahan lagi di master
